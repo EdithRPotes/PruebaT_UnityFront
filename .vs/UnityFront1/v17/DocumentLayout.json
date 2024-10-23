@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\pruebatecnica unity front\\unityfront1\\assets\\scripts\\card3d\\cardrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card3d\\cardrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\assets\\scripts\\managers\\characteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\characteritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\assets\\scripts\\api\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02034897-6BE3-A9FF-4AEC-B0448A7F4062}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardRotation.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\Card3D\\CardRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Card3D\\CardRotation.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\Card3D\\CardRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Card3D\\CardRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:41:40.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterItem.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\Managers\\CharacterItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CharacterItem.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\Managers\\CharacterItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CharacterItem.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:18:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAANQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:30:31.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\API\\APIHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\APIHandler.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Assets\\Scripts\\API\\APIHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\APIHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:11:34.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

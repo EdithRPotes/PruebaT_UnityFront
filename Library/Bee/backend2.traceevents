@@ -1,0 +1,243 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1729692513745943, "dur":18185, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729692513764208, "dur":336, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729692513764559, "dur":2500, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729692513767060, "dur":169558, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729692513936620, "dur":232, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729692513937034, "dur":1138, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1729692513764822, "dur":2274, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729692513767099, "dur":427, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729692513767526, "dur":3493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1729692513771035, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1729692513771025, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1729692513796366, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1729692513797730, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729692513800411, "dur":4602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729692513805114, "dur":4196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729692513809376, "dur":6286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1729692513815726, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1729692513817732, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1729692513819457, "dur":117154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729692513764740, "dur":2335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729692513767078, "dur":518, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729692513767596, "dur":3388, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1729692513778726, "dur":1212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1729692513780056, "dur":2665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513782819, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513784231, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513785980, "dur":1566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513787601, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513789273, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513789272, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513789365, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513791598, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513793869, "dur":2486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513796416, "dur":3469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513799936, "dur":4128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513804124, "dur":4623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513808817, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513808815, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513808888, "dur":4627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513813580, "dur":5539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1729692513819203, "dur":117411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729692513764899, "dur":2221, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729692513767123, "dur":457, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729692513767581, "dur":3417, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1729692513771009, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1729692513771002, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1729692513787438, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1729692513788679, "dur":258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513788678, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513788948, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513790715, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513792577, "dur":2844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513795504, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513798511, "dur":3881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513802479, "dur":4077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513806630, "dur":4683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513811366, "dur":5103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1729692513817316, "dur":2115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1729692513819464, "dur":117179, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729692513764837, "dur":2266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729692513767106, "dur":478, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729692513767584, "dur":3407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1729692513787017, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1729692513788109, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513788108, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513788223, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513789673, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513792098, "dur":2086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513794228, "dur":2989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513797275, "dur":3039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513800365, "dur":4670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513805117, "dur":4275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513809459, "dur":5249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1729692513814823, "dur":5304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1729692513820188, "dur":116442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729692513764772, "dur":2310, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729692513767085, "dur":423, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729692513767509, "dur":3525, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729692513771039, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1729692513797176, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1729692513799080, "dur":3916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729692513803049, "dur":4953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729692513813927, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1729692513808055, "dur":6008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729692513814109, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729692513814107, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729692513814188, "dur":16761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1729692513830987, "dur":105658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729692513764814, "dur":2276, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729692513767093, "dur":468, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729692513767561, "dur":3447, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1729692513772807, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1729692513774484, "dur":1231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1729692513776098, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513777866, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1729692513780397, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513782170, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513783960, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513785521, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513787630, "dur":338, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513787628, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513787986, "dur":1428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513789453, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513791452, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513793762, "dur":2004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513795814, "dur":2961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513798840, "dur":3869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513802767, "dur":4649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513807531, "dur":4284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513811907, "dur":5147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1729692513817138, "dur":2101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1729692513819276, "dur":117351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729692513764734, "dur":2335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729692513767072, "dur":3899, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729692513831243, "dur":486, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":7, "ts":1729692513831736, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1729692513832072, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player0a894a2c-inputdata.json" }}
+,{ "pid":12345, "tid":7, "ts":1729692513831734, "dur":538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1729692513832506, "dur":69, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1729692513832913, "dur":99364, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1729692513935351, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1729692513935350, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1729692513935443, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/boot.config" }}
+,{ "pid":12345, "tid":8, "ts":1729692513764869, "dur":2242, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729692513767114, "dur":438, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729692513767553, "dur":3494, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1729692513771051, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1729692513796939, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1729692513798401, "dur":3371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729692513801821, "dur":4231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729692513806095, "dur":4431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729692513810580, "dur":5162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1729692513815850, "dur":1978, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1729692513815849, "dur":1983, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1729692513817863, "dur":3348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1729692513821254, "dur":115369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729692513764931, "dur":2199, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729692513767134, "dur":145, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729692513767280, "dur":3809, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1729692513830637, "dur":1538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1729692513832210, "dur":104411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729692513764965, "dur":2178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729692513767143, "dur":3835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1729692513770992, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1729692513770982, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1729692513778211, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1729692513780083, "dur":3175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513783313, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513784701, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513787430, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513788846, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513788844, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513789031, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513791213, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513792950, "dur":2699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513795709, "dur":3199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513798959, "dur":3903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513802923, "dur":4570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513807552, "dur":4504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513812117, "dur":5449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1729692513817691, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1729692513819187, "dur":117426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729692513764997, "dur":2156, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729692513767154, "dur":3826, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1729692513770981, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1729692513772716, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1729692513774433, "dur":1027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1729692513775560, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1729692513776608, "dur":3630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513780303, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513782166, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513783715, "dur":1561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513785325, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513787081, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513788568, "dur":348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513788566, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513788928, "dur":1750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513790730, "dur":1478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513792254, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513794925, "dur":3162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513798157, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513801310, "dur":3829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513805191, "dur":4888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513810165, "dur":5173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1729692513815394, "dur":2783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1729692513818240, "dur":3234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1729692513821505, "dur":115127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729692513765032, "dur":2132, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729692513767164, "dur":3812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1729692513772365, "dur":1933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1729692513774476, "dur":1176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1729692513776151, "dur":670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1729692513776855, "dur":323, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":12, "ts":1729692513776855, "dur":324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia.exe" }}
+,{ "pid":12345, "tid":12, "ts":1729692513777192, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia.exe" }}
+,{ "pid":12345, "tid":12, "ts":1729692513778902, "dur":3317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513782271, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513784542, "dur":1903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513786485, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513788326, "dur":582, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USUARIO\\Desktop\\PruebaTecnica Unity front\\UnityFront1\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513788325, "dur":585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513788926, "dur":2571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513791594, "dur":2425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513794170, "dur":3595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513797830, "dur":3929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513801813, "dur":3919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513805777, "dur":4879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513810718, "dur":15932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1729692513826698, "dur":109927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729692513765061, "dur":2113, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729692513767174, "dur":3926, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1729692513771101, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1729692513840033, "dur":1224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1729692513841290, "dur":95369, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729692513765084, "dur":2101, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729692513767185, "dur":3875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1729692513771077, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":14, "ts":1729692513771064, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1729692513806858, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1729692513808263, "dur":4539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729692513812853, "dur":5085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1729692513818005, "dur":3980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1729692513822028, "dur":114622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729692513765109, "dur":2083, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729692513767193, "dur":3879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1729692513798120, "dur":1161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1729692513799332, "dur":4031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1729692513803421, "dur":4591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1729692513808094, "dur":4316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1729692513812473, "dur":5352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1729692513817890, "dur":3268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/level0" }}
+,{ "pid":12345, "tid":15, "ts":1729692513821204, "dur":115416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729692513765135, "dur":2066, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729692513767202, "dur":3879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729692513807156, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1729692513808726, "dur":5215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729692513814009, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1729692513814067, "dur":4157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1729692513818274, "dur":3073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USUARIO/Desktop/PruebaTUnityFront/UnityFront_MortyPedia_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1729692513821392, "dur":115224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1729692513941050, "dur":793, "ph":"X", "name": "ProfilerWriteOutput" }
+,
